@@ -1,0 +1,66 @@
+.page-content-wrapper{
+    background: rgb(36,32,32);
+    background: linear-gradient(90deg, rgba(36,32,32,1) 0%, rgba(60,57,57,0.989233193277311) 22%, rgba(33,33,33,1) 63%, rgba(13,12,12,1) 87%, rgba(0,0,0,1) 100%);}
+    
+
+.page-content-wrapper > .page-content{
+    display: flex;
+
+}
+.page-content-wrapper > .page-content > .left-column-wrapper{
+    width:100%;
+    padding-left: 40px;
+    
+}
+
+.page-content-wrapper > .page-content > .left-column-wrapper > .text-wrapper{
+    padding-bottom: 30px;
+    line-height: 45px;
+    
+}
+
+.page-content-wrapper > .page-content > .left-column-wrapper > .content-button-wrapper{
+    display: flex;
+    font-size: 2em;    
+}
+
+.page-content-wrapper > .page-content > .left-column-wrapper > .content-button-wrapper > .signupfree-btn {
+   
+    color: rgb(0, 0, 0);
+    background-color: rgb(51, 170, 111) ;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    border-radius: 4px;
+    padding: 5px 20px 5px 20px;
+    margin-right:15px;
+    
+}
+
+.page-content-wrapper > .page-content > .left-column-wrapper > .content-button-wrapper > .learnmore-btn {
+   
+    color: white;
+    background-color: rgb(10, 10, 10) ;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    border-radius: 4px;
+    padding: 5px 20px 10px 20px;
+    margin: 5px 0px
+}
+.page-content-wrapper > .page-content > .right-column-wrapper{
+    padding-top: 15px;
+}
+.page-content-wrapper > .page-content > .right-column-wrapper > .right-column-text-wrapper{
+    font-weight: bold;
+    margin-left: 15px;
+
+}
+.page-content-wrapper > .page-content > .right-column-wrapper > .right-column-image-wrapper img{
+    width:100%;
+    -webkit-box-shadow: -2px 0px 13px 1px #000000; 
+    box-shadow: -2px 0px 13px 1px #000000;
+    margin-top: 5px;
+}
+
+
