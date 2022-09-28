@@ -1,2 +1,2 @@
-# capstone-site
-replication of an older version of the codepen io homepage in order to demonstrate my skills at html and css.
+# Capstone Website for Coding Foundations
+This is the final project of a 30 day boot camp sponsored by Bottega University. This site showcases all I have learned pertaining to HTML and CSS. This site was designed from an image of the original site. I utilized Grid and Flexbox to replicate the site. The colors are not an exact match, but I could of downloaded the image, used the eyedropper in paint to replicate the colors exactly. 
